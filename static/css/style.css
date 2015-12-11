@@ -1,0 +1,128 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+	blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn,
+	em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+	b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+	table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas,
+	details, embed, figure, figcaption, footer, header, hgroup, menu, nav,
+	output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.center {
+	margin: 0 auto;
+	position: relative;
+	max-width: 1224px;
+}
+
+.header-left {
+	float: left;
+	height: 60px;
+	width: 30%;
+}
+
+.header-brand-logo img {
+	height: 49px;
+	width: 272px;
+}
+
+.header-right {
+	height: 60px;
+	width: 100%;
+}
+
+.header-brand-rda {
+	color: #0da6e0;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: bold;
+	position: relative;
+	top: -8px;
+}
+
+.header-right-text {
+	color: #0da6e0;
+	font-size: 30px;
+	float:right;
+	margin-left:50px;
+}
+
+.header-brand-skyteam {
+	position: relative;
+	top: -9px;
+}
+
+#content {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Helvetica';
+	min-height: 740px;
+}
+
+.content-left {
+	float: left;
+	width: 50%;
+}
+
+.content-area {
+	min-height:400px;
+}
+
+.content-left-text {
+	color: #2a2a2a;
+	font-size: 3em;
+	padding-top: 250px;
+}
+
+.content-right {
+	float: right;
+	width: 50%;
+}
+
+.content-btn-area {
+	padding-top: 210px;
+}
+
+.content-title {
+	font-size: 3em;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-left: 10px
+}
+
+#content .table.table-bordered {
+	font-size: 20px;
+}
+
+#content .table.table-bordered th {
+	color: #fff;
+	background: #096FB7;
+}
+
+#footer {
+	height: 30px;
+}
+
+.footer-content {
+	border-top: 3px solid #0da6e0;
+	color: #333;
+	font: 13px/1.6 'Lucida Grande', 'Lucida Sans Unicode', 'Helvetica';
+	text-align: center;
+}
+
+#add {
+	color:#fff;
+	background-color:#337ab7;
+	border-color:#2e6da4;
+	float: right;
+	padding: 8px 18px;
+	font-size: 20px;
+}
+.thumb {
+    width: 24px;
+    height: 24px;
+    float: none;
+    position: relative;
+}
